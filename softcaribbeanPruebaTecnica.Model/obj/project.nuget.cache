@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jht95eA2FhY0H9lMMt6cz9mDFxMfq7whHj7MSI5vDEvz7knj7Bzuf0UZ+22X0FN/OZjhRX1ch0Xe+CmphdNTpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yeison.hinestroza\\source\\repos\\softcaribbeanPruebaTecnica\\softcaribbeanPruebaTecnica.Model\\softcaribbeanPruebaTecnica.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yeison.hinestroza\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

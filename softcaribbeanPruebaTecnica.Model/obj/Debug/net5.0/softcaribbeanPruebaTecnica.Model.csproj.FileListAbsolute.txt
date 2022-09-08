@@ -1,0 +1,12 @@
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.deps.json
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\bin\Debug\net5.0\ref\softcaribbeanPruebaTecnica.Model.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.csproj.AssemblyReference.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.AssemblyInfoInputs.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.AssemblyInfo.cs
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.csproj.CoreCompileInputs.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\ref\softcaribbeanPruebaTecnica.Model.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Model\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Model.pdb

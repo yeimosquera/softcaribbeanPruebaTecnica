@@ -1,0 +1,15 @@
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Data.deps.json
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Data.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\ref\softcaribbeanPruebaTecnica.Data.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Data.pdb
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.csproj.AssemblyReference.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.AssemblyInfoInputs.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.AssemblyInfo.cs
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.csproj.CoreCompileInputs.cache
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.csproj.CopyComplete
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\ref\softcaribbeanPruebaTecnica.Data.dll
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica.Data\obj\Debug\net5.0\softcaribbeanPruebaTecnica.Data.pdb
