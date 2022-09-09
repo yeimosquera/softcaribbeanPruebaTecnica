@@ -23,47 +23,87 @@ namespace softcaribbeanPruebaTecnica.Controllers
         [HttpGet]
         public async Task<IActionResult> ObtenerPersonas()
         {
-            return Ok(await _personasRepository.GetAllPersonas());
+            try
+            {
+                return Ok(await _personasRepository.GetAllPersonas());
+            }
+            catch(Exception ex)
+            {
+                return BadRequest(ex);
+            }
+           
         }
 
         [HttpGet("{tipo_persona}")]
         public async Task<IActionResult> ObtenerPersonasPacientes(int tipo_persona)
         {
-            return Ok(await _personasRepository.GetPersonasPacientes(tipo_persona));
+            try
+            {
+                return Ok(await _personasRepository.GetPersonasPacientes(tipo_persona));
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+
 
         }
 
         [HttpPost]
         public async Task<IActionResult> CrearPersona([FromBody] Persona persona)
         {
-            if (persona == null)
-                return BadRequest();
-            if (!ModelState.IsValid)
-                return BadRequest();           
+            try
+            {
+                if (persona == null)
+                    return BadRequest();
+                if (!ModelState.IsValid)
+                    return BadRequest();
 
-            var personaCreada = await _personasRepository.InsertPersonas(persona);
+                var personaCreada = await _personasRepository.InsertPersonas(persona);
 
-            return Created("Se creo la persona", personaCreada);
+                return StatusCode(200, personaCreada);
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+
         }
 
         [HttpPut]
         public async Task<IActionResult> ActualizarPersona([FromBody] Persona persona)
         {
-            if (persona == null)
-                return BadRequest();
-            if (!ModelState.IsValid)
-                return BadRequest();
+            try {
+                if (persona == null)
+                    return BadRequest();
+                if (!ModelState.IsValid)
+                    return BadRequest();
 
-           var personaCreada = await _personasRepository.UpdatePersonas(persona);
+                var personaCreada = await _personasRepository.UpdatePersonas(persona);
 
-            return Created("Se actualiza la persona", personaCreada);
+                return Created("Se actualiza la persona", personaCreada);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
+            
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> EliminarPersona(int id)
         {
-            await _personasRepository.DeletePersonas(new Persona() { Id = id });
-            return NoContent();
+            try
+            {
+                await _personasRepository.DeletePersonas(new Persona() { Id = id });
+                return NoContent();
+
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex);
+            }
 
         }
     }
