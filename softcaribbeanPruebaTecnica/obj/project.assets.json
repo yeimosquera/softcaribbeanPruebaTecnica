@@ -11,6 +11,15 @@
           "lib/net5.0/Dapper.dll": {}
         }
       },
+      "DataAnnotationsExtensions/5.0.1.27": {
+        "type": "package",
+        "compile": {
+          "lib/NETFramework40/DataAnnotationsExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/NETFramework40/DataAnnotationsExtensions.dll": {}
+        }
+      },
       "Google.Protobuf/3.19.4": {
         "type": "package",
         "compile": {
@@ -373,7 +382,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Dapper": "2.0.123"
+          "Dapper": "2.0.123",
+          "DataAnnotationsExtensions": "5.0.1.27"
         },
         "compile": {
           "bin/placeholder/softcaribbeanPruebaTecnica.Model.dll": {}
@@ -401,6 +411,18 @@
         "lib/net5.0/Dapper.xml",
         "lib/netstandard2.0/Dapper.dll",
         "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
+    "DataAnnotationsExtensions/5.0.1.27": {
+      "sha512": "lw4n4XzY62raAOrrlPdkh4h3PXenReARIazAPzs8AvlkKDAK9pe7kcUL3dh3T095/Q9+LezoXCfjEgDPslmGyg==",
+      "type": "package",
+      "path": "dataannotationsextensions/5.0.1.27",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dataannotationsextensions.5.0.1.27.nupkg.sha512",
+        "dataannotationsextensions.nuspec",
+        "lib/NETFramework40/DataAnnotationsExtensions.dll"
       ]
     },
     "Google.Protobuf/3.19.4": {
@@ -1176,5 +1198,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"DataAnnotationsExtensions 5.0.1.27\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "DataAnnotationsExtensions",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }

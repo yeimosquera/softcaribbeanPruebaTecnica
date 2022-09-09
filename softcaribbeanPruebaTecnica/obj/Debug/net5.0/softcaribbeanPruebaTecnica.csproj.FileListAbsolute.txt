@@ -43,3 +43,4 @@ C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbean
 C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.dll
 C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Data.pdb
 C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica\bin\Debug\net5.0\softcaribbeanPruebaTecnica.Model.pdb
+C:\Users\yeison.hinestroza\source\repos\softcaribbeanPruebaTecnica\softcaribbeanPruebaTecnica\bin\Debug\net5.0\DataAnnotationsExtensions.dll

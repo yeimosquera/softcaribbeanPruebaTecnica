@@ -164,5 +164,7 @@ namespace softcaribbeanPruebaTecnica.Data.Repositories
                          FROM persona ";
             return await db.QueryAsync<Persona>(sql, new {});
         }
+
+        
     }
 }

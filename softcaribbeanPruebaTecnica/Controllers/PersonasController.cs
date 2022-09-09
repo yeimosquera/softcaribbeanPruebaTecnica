@@ -39,11 +39,11 @@ namespace softcaribbeanPruebaTecnica.Controllers
             if (persona == null)
                 return BadRequest();
             if (!ModelState.IsValid)
-                return BadRequest();
+                return BadRequest();           
 
             var personaCreada = await _personasRepository.InsertPersonas(persona);
 
-            return Created("Se creó la persona", personaCreada);
+            return Created("Se creo la persona", personaCreada);
         }
 
         [HttpPut]
@@ -54,9 +54,9 @@ namespace softcaribbeanPruebaTecnica.Controllers
             if (!ModelState.IsValid)
                 return BadRequest();
 
-            await _personasRepository.UpdatePersonas(persona);
+           var personaCreada = await _personasRepository.UpdatePersonas(persona);
 
-            return NoContent();
+            return Created("Se actualiza la persona", personaCreada);
         }
 
         [HttpDelete("{id}")]
@@ -67,4 +67,5 @@ namespace softcaribbeanPruebaTecnica.Controllers
 
         }
     }
+
 }
