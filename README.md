@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>softcaribbeanPruebaTecnica.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Softcaribbean_Prueba_Tecnica_0"></a>Softcaribbean Prueba Tecnica</h1>
 <p class="has-line-data" data-line-start="2" data-line-end="3"><img src="https://www.softcaribbean.com/wp-content/uploads/2021/08/logo-softcaribbean.png" alt="Alt text" title="Title"></p>
 <h5 class="code-line" data-line-start=4 data-line-end=5><a id="Es_un_api_desarrollada_en_NET_Core_5_con_MySql__como_base_de_datos_y__Dapper_para_asignar_consultas_a_los_objetos_de_manera_simplificada_4"></a>Es un api desarrollada en .NET Core 5, con MySql como base de datos y Dapper para asignar consultas a los objetos de manera simplificada.</h5>
