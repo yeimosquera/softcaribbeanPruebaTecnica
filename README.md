@@ -37,6 +37,6 @@
 </tr>
 </tbody>
 </table>
-
+<h1>El script de la base de datos se encuentra en este repositorio en la carpeta db/scriptdb.sql</h1>
 
 </body></html>
